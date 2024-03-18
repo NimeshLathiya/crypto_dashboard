@@ -1,3 +1,7 @@
+
+![Default](https://github.com/NimeshLathiya/crypto_dashboard/assets/142136394/d506496e-dbfb-421d-89b8-dc73c3612041)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
