@@ -9,7 +9,7 @@ import {
 } from "@chakra-ui/react";
 import SideNav from "./SideNav";
 
-const SideDrawer = ({ isOpen,  }) => {
+const SideDrawer = ({ isOpen, onClose }) => {
   return (
     <>
       <Drawer isOpen={isOpen} placement="left" onClose={onClose}>
