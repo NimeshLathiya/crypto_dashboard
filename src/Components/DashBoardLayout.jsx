@@ -4,7 +4,7 @@ import SideNav from "./SideNav";
 import TopNav from "./TopNav";
 import SideDrawer from "./SideDrawer";
 
-const DashBoardLayout = ({ title, children }) => {
+const DashBoardLayout = ({ title,  }) => {
   const { onClose, isOpen, onOpen } = useDisclosure();
   return (
     <Flex>
