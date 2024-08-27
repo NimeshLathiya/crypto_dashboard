@@ -7,7 +7,7 @@ import { Link, useLocation } from "react-router-dom";
 
 const SideNav = () => {
   const location = useLocation();
-  console.log("location", );
+  console.log("location",location );
 
   const isActiveLink = (link) => {
     return location.pathname === link;
